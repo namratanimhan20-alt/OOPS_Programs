@@ -1,3 +1,4 @@
+//To store student details using class and object. 
 #include <iostream> 
 using namespace std; 
 class Student { 

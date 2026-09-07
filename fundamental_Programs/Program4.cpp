@@ -1,3 +1,4 @@
+// To Create an addition function for reuse.
 #include <iostream>
 using namespace std;
 

@@ -1,4 +1,4 @@
-// Program to Store student roll number, grade, and fee amount.
+//To Store student roll number, grade, and fee amount.
  #include <iostream> 
  using namespace std; 
  int main() { 

@@ -1,4 +1,4 @@
-// Print marks of five students.
+//To print marks of five students.
 #include <iostream>
 using namespace std;
 int main() {

@@ -1,4 +1,4 @@
- //Check whether a student has passed or failed. 
+ //To check whether a student has passed or failed. 
 #include <iostream> 
 using namespace std; 
 int main() { 

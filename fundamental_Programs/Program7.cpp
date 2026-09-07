@@ -1,3 +1,4 @@
+//To count how many objects are created. 
 #include <iostream> 
 using namespace std; 
 class Student { 

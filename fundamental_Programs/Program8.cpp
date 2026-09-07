@@ -1,3 +1,4 @@
+//To access private data using inline getter and friend function. 
 #include <iostream> 
 using namespace std; 
 class Test { 

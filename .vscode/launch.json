@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Dell G15/Desktop/OOPS_Programs/fundamental_Programs",
-      "program": "c:/Users/Dell G15/Desktop/OOPS_Programs/fundamental_Programs/build/Debug/outDebug",
+      "cwd": "c:/Users/Dell G15/Desktop/OOPS_Programs/Inheritance_Programs",
+      "program": "c:/Users/Dell G15/Desktop/OOPS_Programs/Inheritance_Programs/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
