@@ -1,0 +1,13 @@
+# C++ compiled files
+*.exe
+*.o
+*.out
+*.obj
+*.pdb
+*.ilk
+
+# Build folder
+build/
+
+# VS Code
+.vscode/
