@@ -1,4 +1,4 @@
-//To demonstrate automatic object initialization and cleanup.( Constructor and Destructor) 
+//To demonstrate automatic object initialization and cleanup (Constructor and Destructor).
 #include <iostream> 
 using namespace std; 
 class Demo { 
