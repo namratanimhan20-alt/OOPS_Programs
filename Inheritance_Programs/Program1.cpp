@@ -1,19 +1,24 @@
-//Basic Single Inheritance
+//To implement single inheritance using Person as a base class and Student as a derived class. 
 #include <iostream> 
 #include <string> 
 #include <utility>  
 class Person { 
+
 protected:     
    std::string name;  
+      
 public:     
     explicit Person(std::string personName) : name(std::move(personName)) {}     
     void displayName() const {         
         std::cout << "Name: " << name << '\n';     
     } 
 };  
+
 class Student : public Person { 
+
 private:    
-  int rollNumber;  
+  int rollNumber; 
+
 public:     
    Student(std::string studentName, int roll)         
      : Person(std::move(studentName)), rollNumber(roll) {}      
@@ -22,6 +27,7 @@ public:
      std::cout << "Roll Number: " << rollNumber << '\n';     
     } 
 };  
+
 int main() {     
     Student student("Amit", 101);     
     student.displayStudent();     
